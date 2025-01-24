@@ -1,0 +1,8 @@
+scapy
+pyshark
+tkinter-tools
+python-dateutil
+netifaces
+psutil
+pandas
+numpy
